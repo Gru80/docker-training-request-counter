@@ -1,0 +1,1 @@
+FROM mdulghier/node-base
